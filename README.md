@@ -1,3 +1,5 @@
+> _High school project from 2024. Keeping it up for the record — not current work._
+
 # powerlifting-analysis
 
 > 386,414 meet entries. Three questions. Deadlift wins.
